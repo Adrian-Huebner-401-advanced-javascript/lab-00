@@ -1,6 +1,6 @@
 'use strict';
 
-let pol = require('../pol.js');
+let pol = require('../../pol');
 
 describe('proof of life', () => {
 
